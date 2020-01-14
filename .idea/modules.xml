@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WebContent/WeAdmin.iml" filepath="$PROJECT_DIR$/WebContent/WeAdmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ojback.iml" filepath="$PROJECT_DIR$/ojback.iml" />
+    </modules>
+  </component>
+</project>

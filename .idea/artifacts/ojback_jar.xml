@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ojback:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ojback_jar</output-path>
+    <root id="archive" name="ojback.jar">
+      <element id="module-output" name="ojback" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-dbutils-1.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-beanutils-1.8.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/jstl-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/druid-1.0.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-8.0.13.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
